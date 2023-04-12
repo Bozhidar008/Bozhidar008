@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bozhidar008&layout=compact" />
 </div>
 
-| :octocat: Connect via: | :scroll: Certificates: | :scroll: Certificates: |
+| :octocat: Connect via: | :scroll: Certificates: | :scroll: Certificates: |:scroll: Certificates: |
 | :-: | :-: | :-: |
 | :e-mail: **E-mail:**<br/>**bojidar008@gmail.com**| :heavy_check_mark: [**JS Fundamentals SoftUni 2023**](https://softuni.bg/certificates/details/169192/2979c8fe)| :heavy_check_mark: [**C# Programming Basics 2021**](https://softuni.bg/certificates/details/115986/2e390c02)<br/>|:heavy_check_mark: [**Agile Software Development 2021**](https://softuni.bg/certificates/details/120388/325eb990)|
 | :blue_book: [**Facebook**](https://)|:heavy_check_mark: [**Agile Fundamentals with Scrum - 2022**](https://softuni.bg/certificates/details/124094/1829f716) | :heavy_check_mark: [**C# Advanced SoftUni 2022**](https://softuni.bg/certificates/details/136266/d62410bf)
